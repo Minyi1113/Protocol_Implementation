@@ -5,9 +5,9 @@ This project demonstrates a simple client-server communication protocol. This pr
 
 ## Files
 The project contains the following files:
-```
+
 Server.cpp: This file contains the implementation for the server.
-```
+
 Client.cpp: This file contains the implementation for the client.
 
 ## Getting Started
